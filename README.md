@@ -6,17 +6,18 @@ This repository serves to keep track of assignments required of students during 
 - Alec Mattu (Undergraduate Teaching Assistant)
 
 ## Topics:
-- TBD
-
-# Grades
-*N/A - Not a student*
+- Data Preprocessing
+- Exploratory Data Analysis
+- Natural Language Processing
+- Machine Learning (*No code*)
+- Linear Regression
 
 # Books, Languages, & Programs
 ## Books
-- TBD
+- N/A
 
 ## Languages
-- Python
+- Python3
 
 ## Programs
 - Jupyter Notebook
